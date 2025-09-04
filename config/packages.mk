@@ -31,6 +31,7 @@ endif
 PRODUCT_PACKAGES += \
     Aperture \
     BluetoothExt \
+    CertifiedKeyboxOverlay \
     Etar \
     GameSpace \
     ImmersiveNavigationOverlay \
